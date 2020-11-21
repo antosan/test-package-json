@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "react-click-outside": "github:tj/react-click-outside"
+  },
   "devDependencies": {
     "@orderfox/eslint-config-orderfox": "^1.0.3",
     "gulp-minify-css": "^1.1.6",

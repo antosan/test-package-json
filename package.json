@@ -17,6 +17,7 @@
   "devDependencies": {
     "@orderfox/eslint-config-orderfox": "^1.0.3",
     "gulp-minify-css": "^1.1.6",
+    "gulp-typescript": "^2.7.5",
     "jest-dom": "^3.2.2",
     "typescript": "2.0"
   }

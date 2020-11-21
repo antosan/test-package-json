@@ -57,6 +57,10 @@ amdefine@>=0.0.4:
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
+"ammap3@github:amcharts/ammap3":
+  version "3.21.15"
+  resolved "https://codeload.github.com/amcharts/ammap3/tar.gz/df2fbb67bc25a11e2ebbe553f08786e806a8ea19"
+
 ansi-gray@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ansi-gray/-/ansi-gray-0.1.1.tgz#2962cf54ec9792c48510a3deb524436861ef7251"

@@ -11,6 +11,11 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@orderfox/eslint-config-orderfox@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@orderfox/eslint-config-orderfox/-/eslint-config-orderfox-1.0.3.tgz#72999f0110d5796778482e61c75f75e23fa481b7"
+  integrity sha512-g++nmfonOX3jnFHn1WG/YFXXiO/YTKIx8NUFVPyhRSD+ODi38R7y0pApWVY1xW+DAv+2FOBy20mO/pIuxjheTg==
+
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz#4ba8ddb720221f432e443bd5f9117fd22cfd4762"

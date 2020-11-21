@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "amcharts3": "github:amcharts/amcharts3",
     "react-click-outside": "github:tj/react-click-outside"
   },
   "devDependencies": {

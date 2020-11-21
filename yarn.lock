@@ -48,6 +48,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
+"amcharts3@github:amcharts/amcharts3":
+  version "3.21.15"
+  resolved "https://codeload.github.com/amcharts/amcharts3/tar.gz/cac5a668652f271dd28c82a072da364c0bd708db"
+
 amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
